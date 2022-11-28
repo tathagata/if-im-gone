@@ -6,7 +6,7 @@ For security purposes, make sure to rename the example.md file as the gitignore 
 
 I would also advise that you don't write down any crypto phrases or password manager master passwords directly in the document but rather to print it out, add that information in pen, and store it in multiple, secure physical locations.
 
-
+## My fork
 ### Notes: 
 I do not pretend to have any sort of legal knowledge so none of this should be taken as legal advice. 
 
