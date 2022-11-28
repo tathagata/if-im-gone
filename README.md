@@ -38,6 +38,6 @@ Feel free to make a PR if I have forgotten anything important that you think of.
   - POLST: A POLST is a medical form that gets super specific about the above. The acronym stands for Physician’s Orders for Life Sustaining Treatment.
   - Advance Directive
   - Financial Power of Attorney (also called Durable Power of Attorney) allows someone access to all your assets (they should know what they are, and how to access what they might  need (insurance policies, for example). At very least, they should be in a position to pay your bills, deposit checks, and get some cash if it’s needed, and to suspend your autopay gym membership while you’re not using it. If you have Venmo or Paypal or Bitcoin, they should know how to access it. If arrangements for pets/dependents have a financial component, they should be able to handle that. 
-  - Will: 
+
   
   
