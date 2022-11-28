@@ -32,6 +32,7 @@ Feel free to make a PR if I have forgotten anything important that you think of.
   - Fidelity has a service for storing documents: https://www.fidsafe.com/
 
 ### Templates:
+  - https://github.com/tathagata/if-im-gone/blob/main/example.md
   - https://ussvicb.org/documents/What%20My%20Family%20Should%20Know%20-%20fillable.doc
   - https://getyourshittogether.org/wp-content/uploads/2021/04/Get-Your-ShtTogether_2-PageOriginalChecklist.pdf
   - https://getyourshittogether.org/wp-content/uploads/2021/04/Get-Your-Shit-Together-Before-After-Expanded-Checklist.pdf
