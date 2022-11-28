@@ -24,7 +24,6 @@ Feel free to make a PR if I have forgotten anything important that you think of.
   - Estate Attorney selection criteria:
      - One at a large and respected firm with a solid track record
   - In U.S. there are separate power of attorney documents for financial vs medical decisions
-  - Another template: https://ussvicb.org/documents/What%20My%20Family%20Should%20Know%20-%20fillable.doc
   - FOR GOODNESS SAKE DO NOT TELL <FAANG> I AM GONE" because they will lock things up
   - securely distributing master password
     - Shamir's secret sharing algorithm.
@@ -32,6 +31,14 @@ Feel free to make a PR if I have forgotten anything important that you think of.
       - https://github.com/sowbug/b39tools
   - Fidelity has a service for storing documents: https://www.fidsafe.com/
 
+### Templates:
+  - https://ussvicb.org/documents/What%20My%20Family%20Should%20Know%20-%20fillable.doc
+  - https://getyourshittogether.org/wp-content/uploads/2021/04/Get-Your-ShtTogether_2-PageOriginalChecklist.pdf
+  - https://getyourshittogether.org/wp-content/uploads/2021/04/Get-Your-Shit-Together-Before-After-Expanded-Checklist.pdf
+  - https://www.erikdewey.com/bigbookmkIV.pdf
+  - https://davieshouser.com/wp-content/uploads/2018/05/19-What-My-Family-Should-Know.pdf
+  - https://www.erikdewey.com/bigbookmkIV.xlsx
+  
 ### Glossary:  
   - MPOA:  Medical Power of Attorney is a form that designates who makes medical decisions for you when you can’t
   - FPOA: An Advance Directive is a legal document in which you articulate what your wishes are if you’re really sick or injured and can’t speak for yourself
