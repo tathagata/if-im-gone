@@ -6,15 +6,15 @@ For security purposes, make sure to rename the example.md file as the gitignore 
 
 I would also advise that you don't write down any crypto phrases or password manager master passwords directly in the document but rather to print it out, add that information in pen, and store it in multiple, secure physical locations.
 
-## My fork
-### Notes: 
 I do not pretend to have any sort of legal knowledge so none of this should be taken as legal advice. 
 
 I also realize that this is very US-centric so it may have to be modified for those not living in the US. 
 
 Feel free to make a PR if I have forgotten anything important that you think of. 
 
-### Other References
+## My fork
+### Notes: 
+
 - Notes from [Hackernews Discussion](https://news.ycombinator.com/item?id=31748553)
   - filing a lasting power of attorney
   - check joint bank accounts are Joint Tenants With Right of Survivorship (JTWROS)
