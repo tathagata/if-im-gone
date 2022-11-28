@@ -26,5 +26,18 @@ Feel free to make a PR if I have forgotten anything important that you think of.
   - In U.S. there are separate power of attorney documents for financial vs medical decisions
   - Another template: https://ussvicb.org/documents/What%20My%20Family%20Should%20Know%20-%20fillable.doc
   - FOR GOODNESS SAKE DO NOT TELL <FAANG> I AM GONE" because they will lock things up
+  - securely distributing master password
+    - Shamir's secret sharing algorithm.
+      - Give a chunk of your password to N friends who you trust, with instructions to recombine it
+      - https://github.com/sowbug/b39tools
+  - Fidelity has a service for storing documents: https://www.fidsafe.com/
+
+### Glossary:  
+  - MPOA:  Medical Power of Attorney is a form that designates who makes medical decisions for you when you can’t
+  - FPOA: An Advance Directive is a legal document in which you articulate what your wishes are if you’re really sick or injured and can’t speak for yourself
+  - POLST: A POLST is a medical form that gets super specific about the above. The acronym stands for Physician’s Orders for Life Sustaining Treatment.
+  - Advance Directive
+  - Financial Power of Attorney (also called Durable Power of Attorney) allows someone access to all your assets (they should know what they are, and how to access what they might  need (insurance policies, for example). At very least, they should be in a position to pay your bills, deposit checks, and get some cash if it’s needed, and to suspend your autopay gym membership while you’re not using it. If you have Venmo or Paypal or Bitcoin, they should know how to access it. If arrangements for pets/dependents have a financial component, they should be able to handle that. 
+  - Will: 
   
   
